@@ -6,7 +6,6 @@ export ZSH="$HOME/.oh-my-zsh"
 export DEVKITPRO=/opt/devkitpro
 export DEVKITARM=/opt/devkitpro/devkitARM
 export DEVKITPPC=/opt/devkitpro/devkitPPC
-export GROOVY_HOME=/opt/homebrew/opt/groovy/libexec
 ZSH_DOTENV_FILE=.dotenv
 CODE_DIRECTORY="$HOME/Documents/code"
 TEMPLATES_DIRECTORY="$CODE_DIRECTORY/templates"
