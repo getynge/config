@@ -1,0 +1,4 @@
+(setq notmuch-saved-searches '((:name "inbox"
+																 :query "tag:inbox"
+																 :count-query "tag:inbox and tag:unread"
+																 :sort-order newest-first)))
